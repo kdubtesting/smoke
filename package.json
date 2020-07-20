@@ -1,0 +1,25 @@
+{
+  "name": "smoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdubtesting/smoke.git"
+  },
+  "author": "K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdubtesting/smoke/issues"
+  },
+  "homepage": "https://github.com/kdubtesting/smoke#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "nodemailer": "^6.4.10"
+  }
+}
